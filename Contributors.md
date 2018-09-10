@@ -5767,3 +5767,4 @@ Keithan Philander
 - [Mike Adams](https://github.com/MADCookie)
 - [Viktor Black](https://github.com/korki-ayo)
 - [Rafal Rudko](https://github.com/kegriz)
+- [Blackmanx](https://github.com/Blackmanx)
